@@ -88,6 +88,7 @@ body {
 }
 .container .container__card.container__cardThird {
   grid-row: 3/4;
+  background-color: #fff;
 }
 .container .container__card.container__cardThird span {
   color: hsl(219, 29%, 14%);
@@ -107,6 +108,7 @@ body {
 }
 .container .container__card.container__cardFive {
   grid-row: 5/6;
+  background-color: #fff;
 }
 .container .container__card.container__cardFive span {
   color: hsl(219, 29%, 14%);
